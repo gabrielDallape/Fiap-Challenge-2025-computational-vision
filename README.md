@@ -2,7 +2,7 @@
 
 > Robotic arm system that uses **YOLOv8** real-time object detection to identify supermarket products on a conveyor belt and autonomously sort them into designated boxes.
 
-**FIAP Challenge 2025 - Computational Vision**
+**FIAP Challenge 2025 - Computational Vision** | **1st Place Winner**
 
 <p align="center">
   <img src="assets/project-setup.jpg" alt="Project Setup - Robotic arm with conveyor belt and vision system" width="700"/>
@@ -18,7 +18,9 @@
 
 ## Overview
 
-This project integrates **computer vision** with **robotic automation** to create a pick-and-place system for supermarket products. A camera detects products on a moving conveyor belt using a custom-trained YOLOv8 model, computes the optimal gripper position, and sends commands to an Arduino-controlled robotic arm that picks and sorts items into the correct box.
+**Winner of the FIAP Challenge 2025 - Computational Vision.** The competition challenged teams to build autonomous robotic systems capable of identifying and sorting supermarket products as fast as possible. The team with the fastest pick-and-place time wins. This project took **1st place**.
+
+The system integrates **computer vision** with **robotic automation** to create a pick-and-place system for supermarket products. A camera detects products on a moving conveyor belt using a custom-trained YOLOv8 model, computes the optimal gripper position, and sends commands to an Arduino-controlled robotic arm that picks and sorts items into the correct box.
 
 ### Key Features
 
