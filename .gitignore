@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dataset (referenced via Roboflow)
+DATA-SET-*/
+dataset/
+*.zip
+
+# YOLO training runs (keep only final model in models/)
+runs/
+
+# Logs
+*.log
+
+# Serial config (user-specific)
+*.ini
+
+# Temporary
+*.tmp
+*.bak
