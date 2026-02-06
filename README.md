@@ -10,9 +10,11 @@
 
 ### Demo Videos
 
-| Demo 1 | Demo 2 | Demo 3 |
-|--------|--------|--------|
-| [Watch Video](assets/demo-1.mov) | [Watch Video](assets/demo-2.mov) | [Watch Video](assets/demo-3.mov) |
+https://github.com/gabrielDallape/Fiap-Challenge-2025-computational-vision/raw/main/assets/demo-1.mp4
+
+https://github.com/gabrielDallape/Fiap-Challenge-2025-computational-vision/raw/main/assets/demo-2.mp4
+
+https://github.com/gabrielDallape/Fiap-Challenge-2025-computational-vision/raw/main/assets/demo-3.mp4
 
 ---
 
