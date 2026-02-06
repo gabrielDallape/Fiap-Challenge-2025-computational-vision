@@ -4,6 +4,16 @@
 
 **FIAP Challenge 2025 - Computational Vision**
 
+<p align="center">
+  <img src="assets/project-setup.jpg" alt="Project Setup - Robotic arm with conveyor belt and vision system" width="700"/>
+</p>
+
+### Demo Videos
+
+| Demo 1 | Demo 2 | Demo 3 |
+|--------|--------|--------|
+| [Watch Video](assets/demo-1.mov) | [Watch Video](assets/demo-2.mov) | [Watch Video](assets/demo-3.mov) |
+
 ---
 
 ## Overview
