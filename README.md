@@ -2,10 +2,27 @@
 
 > Robotic arm system that uses **YOLOv8** real-time object detection to identify supermarket products on a conveyor belt and autonomously sort them into designated boxes.
 
-**FIAP Challenge 2025 - Computational Vision** | **1st Place Winner**
+**FIAP Challenge 2025 - RoboVision Challenge** | **1st Place Winner**
 
 <p align="center">
-  <img src="assets/project-setup.jpg" alt="Project Setup - Robotic arm with conveyor belt and vision system" width="700"/>
+  <img src="assets/competition-live.jpg" alt="Team operating the robotic arm live at FIAP NEXT" width="700"/>
+</p>
+
+---
+
+## Competition
+
+This project won **1st place** at the **RoboVision Challenge** during **FIAP NEXT 2025**, competing against multiple teams in a live pick-and-place race. The challenge required teams to build autonomous robotic systems capable of identifying and sorting supermarket products as fast as possible. The team with the fastest time wins.
+
+<p align="center">
+  <img src="assets/team-competition.jpg" alt="Team during the live competition round" width="500"/>
+</p>
+
+### The Robot in Action
+
+<p align="center">
+  <img src="assets/robot-closeup.jpg" alt="Close-up of the robotic arm with products on conveyor belt" width="400"/>
+  <img src="assets/robot-picking.jpg" alt="Robot picking a product into the sorting box" width="400"/>
 </p>
 
 ### Demo Videos
@@ -16,11 +33,19 @@ https://github.com/gabrielDallape/Fiap-Challenge-2025-computational-vision/raw/m
 
 https://github.com/gabrielDallape/Fiap-Challenge-2025-computational-vision/raw/main/assets/demo-3.mp4
 
+### Podium
+
+<p align="center">
+  <img src="assets/1st-place-prize.jpg" alt="1st place team receiving the R$5,000 prize" width="500"/>
+</p>
+
+<p align="center">
+  <img src="assets/podium-winners.jpg" alt="All competition winners on stage at FIAP NEXT" width="700"/>
+</p>
+
 ---
 
 ## Overview
-
-**Winner of the FIAP Challenge 2025 - Computational Vision.** The competition challenged teams to build autonomous robotic systems capable of identifying and sorting supermarket products as fast as possible. The team with the fastest pick-and-place time wins. This project took **1st place**.
 
 The system integrates **computer vision** with **robotic automation** to create a pick-and-place system for supermarket products. A camera detects products on a moving conveyor belt using a custom-trained YOLOv8 model, computes the optimal gripper position, and sends commands to an Arduino-controlled robotic arm that picks and sorts items into the correct box.
 
@@ -119,7 +144,7 @@ The model detects **10 supermarket products**, each with individually calibrated
 │   └── arduino_pick.py             # Arduino picking sequence helper
 ├── models/
 │   └── best.pt                     # Fine-tuned YOLOv8 Nano weights (10 classes)
-├── assets/                         # Project images and diagrams
+├── assets/                         # Project photos, demo videos, and event images
 ├── .gitignore
 ├── requirements.txt
 └── README.md
