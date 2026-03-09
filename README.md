@@ -36,11 +36,11 @@ https://github.com/gabrielDallape/Fiap-Challenge-2025-computational-vision/raw/m
 ### Podium
 
 <p align="center">
-  <img src="assets/1st-place-prize.jpg" alt="1st place team receiving the R$5,000 prize" width="500"/>
+  <img src="assets/podium-winners.jpg" alt="All competition winners on stage at FIAP NEXT" width="700"/>
 </p>
 
 <p align="center">
-  <img src="assets/podium-winners.jpg" alt="All competition winners on stage at FIAP NEXT" width="700"/>
+  <img src="assets/1st-place-prize.jpg" alt="1st place team receiving the R$5,000 prize" width="500"/>
 </p>
 
 ---
